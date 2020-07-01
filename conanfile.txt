@@ -1,0 +1,6 @@
+[requires]
+libyaml/0.2.2@bincrafters/stable
+libiberty/9.1.0@bincrafters/stable
+
+[generators]
+cmake
